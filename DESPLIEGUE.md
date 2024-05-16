@@ -16,4 +16,9 @@
 14. en la pestaña que nos muestra hacemos click en debug console y luego en CMD.
 15. abrimos la carpeta Site y luego la carpeta wwwroot.
 16. eliminamos el archivo .html que aparece en esta carpeta.
-17. montamos la aplicacion de Pokedex.
+    NOTA: cabe destacar que para realizar estos paso ya debemos haber realizado los que aparecen en el archivo README.md
+17. montamos la aplicacion de Pokedex, para esto debemos montar la carpeta dist
+18. creamos una carpeta dentro de la carpeta dist llamada pokedex-angular, y en esta introducimos la carpeta assets.
+19. creamos el archivo web.config, donde vamos a configurar la seguridad de nuestra pagina web.
+    20 guardamos los cambios anteriores y ejecutamos nuestra pagina.
+20. entramos a la pagina securityheaders.com e introducimos el link de nuestra pagina web pokedexx.azurewebsites.net, para ver la clasificacion de seguridad que esta tiene, en nuestro caso A
